@@ -1,0 +1,1 @@
+INSERT INTO obj(id, username, email_address)values(1, 'Fred Matty', 'example@fred.com');

@@ -1,0 +1,1 @@
+CREATE TABLE obj (id BIGINT AUTO_INCREMENT PRIMARY KEY, username varchar(20), email_address varchar(30));
